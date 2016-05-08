@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="app_name_pro">Currency converter pro</string>
+
+    <string name="home_open">Open</string>
+    <string name="home_close">Close</string>
+
+    <string name="home_snackbar_updating">Updating …</string>
+    <string name="home_snackbar_update_done">Update done</string>
+    <string name="home_snackbar_retrying">Retrying update …</string>
+    <string name="home_snackbar_copied">Currency amount copied</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d currency removed</item>
+        <item quantity="other">%d currencies removed</item>
+    </plurals>
+
+    <string name="home_drawer_home">Home</string>
+    <string name="home_drawer_favorites">Favorites</string>
+    <string name="home_drawer_settings">Settings</string>
+    <string name="home_drawer_chart">Chart</string>
+    <string name="home_drawer_about">About</string>
+    <string name="home_drawer_last_sync">Last update %s</string>
+    <string name="currency_search_title">Search</string>
+    <string name="currency_search_hint">Currency, Country ..</string>
+    <string name="currency_search_not_found">No currencies found</string>
+    <string name="activity_label_add_currency">Add currency</string>
+    <string name="activity_choose_currency">Choose currency</string>
+    <string name="home_favorite_action_delete">delete favorite</string>
+    <string name="empty_favorite_currency">No favorite currency</string>
+    <string name="empty_favorite_action">Adds one {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">%d minute ago</item>
+        <item quantity="other">%d minutes ago</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">%d second ago</item>
+        <item quantity="other">%d seconds ago</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d currency selected</item>
+        <item quantity="other">%d currencies selected</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\nday</string>
+    <string name="chart_time_5day">5\ndays</string>
+    <string name="chart_time_3months">3\nmonths</string>
+    <string name="chart_time_6months">6\nmonths</string>
+    <string name="chart_time_1years">1\nyear</string>
+    <string name="chart_time_2years">2\nyears</string>
+    <string name="chart_time_5years">5\nyears</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Initializing &#8230;</string>
+    <string name="loading_error">Please check your internet connection</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_pro_app">{fa-ban} Remove ads\n{fa-puzzle-piece} use customizable widget\n{fa-fast-forward} Increase speed</string>
+    <string name="about_app_detail">Application written by <a href="http://julien-millau.fr">Julien Millau</a></string>
+    <string name="about_improve_translation_text">Improve translation</string>
+    <string name="about_feedback_text">Send feedback or report issues</string>
+    <string name="send_email">Send email</string>
+
+    <string name="buy_app">Please buy the app and reinstall it</string>
+    <string name="log_dialog_ok">Ok</string>
+    <string name="msg_info">Info</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Remove ads</string>
+    <string name="pref_auto_update">Automatic update</string>
+    <string name="pref_network_title">Network</string>
+    <string name="pref_auto_update_on">Automatic update enabled</string>
+    <string name="pref_auto_update_off">Automatic update disabled</string>
+    <string name="pref_appearance_title">Appearance</string>
+    <string name="pref_decimalNumber_title">Decimal number</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Currency source</string>
+    <string name="pref_currency_source_summary">Default widget currency</string>
+
+</resources>

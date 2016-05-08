@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Conversor de divisas</string>
+    <string name="app_name_pro">Conversor de divisas pro</string>
+
+    <string name="home_open">Abierto</string>
+    <string name="home_close">Cerca</string>
+
+    <string name="home_snackbar_updating">Actualizando …</string>
+    <string name="home_snackbar_update_done">Actualizacion completa</string>
+    <string name="home_snackbar_retrying">Nueva tentativa …</string>
+    <string name="home_snackbar_copied">Monto de divisa copiada</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d divisa suprimido</item>
+        <item quantity="other">%d divisas suprimido</item>
+    </plurals>
+
+    <string name="home_drawer_home">inicio</string>
+    <string name="home_drawer_favorites">favorito</string>
+    <string name="home_drawer_settings">parámetros</string>
+    <string name="home_drawer_chart">Gráfico</string>
+    <string name="home_drawer_about">Ingenio</string>
+    <string name="home_drawer_last_sync">Última actualización %s</string>
+    <string name="currency_search_title">Buscar</string>
+    <string name="currency_search_hint">Divisa, país ..</string>
+    <string name="currency_search_not_found">Ningunas divisas encontradas</string>
+    <string name="activity_label_add_currency">Añadir una divisa</string>
+    <string name="activity_choose_currency">seleccionar una divisa</string>
+    <string name="home_favorite_action_delete">Suprimir un favorito</string>
+    <string name="empty_favorite_currency">No favoritas divisa</string>
+    <string name="empty_favorite_action">Agrega uno {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">Hace %d minuto</item>
+        <item quantity="other">Hace %d minutos‎</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">Hace %d hora</item>
+        <item quantity="other">Hace %d horas</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">Hace %d segundo</item>
+        <item quantity="other">Hace %d segundos</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d divisa seleccionado</item>
+        <item quantity="other">%d divisas seleccionado</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\ndía</string>
+    <string name="chart_time_5day">5\ndías</string>
+    <string name="chart_time_3months">3\nmes</string>
+    <string name="chart_time_6months">6\nmes</string>
+    <string name="chart_time_1years">1\naños</string>
+    <string name="chart_time_2years">2\naños</string>
+    <string name="chart_time_5years">5\naños</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Inicialización &#8230;</string>
+    <string name="loading_error">Por favor, compruebe su conexión</string>
+
+    <!-- About -->
+    <string name="about_title">A propósito</string>
+    <string name="about_pro_app">{fa-ban} Supprimir la publicidad\n{fa-puzzle-piece} Widget personalizable\n{fa-fast-forward} Mejorar la velocidad</string>
+    <string name="about_app_detail">Aplicación escrito por <a href="http://julien-millau.fr">Julien Millau</a></string>
+    <string name="about_improve_translation_text">Mejorar la traducción</string>
+    <string name="about_feedback_text">Enviar un comentario o indicar un problema</string>
+    <string name="send_email">Enviar por email</string>
+
+    <string name="buy_app">Compre y reinstale por favor el app con el Play Store</string>
+    <string name="log_dialog_ok">Ok</string>
+    <string name="msg_info">Información</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Supprimir la publicidad</string>
+    <string name="pref_auto_update">Actualización automática</string>
+    <string name="pref_network_title">Red</string>
+    <string name="pref_auto_update_on">Activado</string>
+    <string name="pref_auto_update_off">Desactivada</string>
+    <string name="pref_appearance_title">Apariencia</string>
+    <string name="pref_decimalNumber_title">Número de decimales</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Divisa fuente Widget</string>
+    <string name="pref_currency_source_summary">Divisa por defecto</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_decimal_entries">
+        <item>1 decimale</item>
+        <item>2 decimali</item>
+        <item>3 decimali</item>
+        <item>4 decimali</item>
+        <item>5 decimali</item>
+    </string-array>
+
+    <string-array name="preference_decimal_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

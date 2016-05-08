@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Währungsrechner</string>
+    <string name="app_name_pro">Währungsrechner Pro</string>
+
+    <string name="home_open">Öffnen</string>
+    <string name="home_close">Schließen</string>
+
+    <string name="home_snackbar_updating">Aktualisierung …</string>
+    <string name="home_snackbar_update_done">Aktualisierung fertig</string>
+    <string name="home_snackbar_retrying">Erneut versucht …</string>
+    <string name="home_snackbar_copied">Valuta betrag kopiert</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d währung entfernt</item>
+        <item quantity="other">%d währungen entfernt</item>
+    </plurals>
+
+    <string name="home_drawer_home">Home</string>
+    <string name="home_drawer_favorites">Favoriten</string>
+    <string name="home_drawer_settings">Einstellungen</string>
+    <string name="home_drawer_chart">Grafiek</string>
+    <string name="home_drawer_about">Über</string>
+    <string name="home_drawer_last_sync">etzte Aktualisierung %s</string>
+    <string name="currency_search_title">Suche</string>
+    <string name="currency_search_hint">währung, Land ..</string>
+    <string name="currency_search_not_found">Keine Währung gefunden</string>
+    <string name="activity_label_add_currency">Währung hinzufügen</string>
+    <string name="activity_choose_currency">Währung wählen</string>
+    <string name="home_favorite_action_delete">Favorit löschen</string>
+    <string name="empty_favorite_currency">Keine Favoriten Währung</string>
+    <string name="empty_favorite_action">Fügen eine {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">vor %d Minute</item>
+        <item quantity="other">vor %d Minuten</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">vor %d Stunde</item>
+        <item quantity="other">vor %d Stunden</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">vor %d Sekunde</item>
+        <item quantity="other">vor %d Sekunden</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d währung ausgewählt</item>
+        <item quantity="other">%d währungen ausgewählt</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\ntag</string>
+    <string name="chart_time_5day">5\ntage</string>
+    <string name="chart_time_3months">3\nmonate</string>
+    <string name="chart_time_6months">6\nmonate</string>
+    <string name="chart_time_1years">1\nJahr</string>
+    <string name="chart_time_2years">2\nJahre</string>
+    <string name="chart_time_5years">5\nJahre</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Initialisieren &#8230;</string>
+    <string name="loading_error">Bitte überprüfen Sie Ihre Internetverbindung</string>
+
+    <!-- About -->
+    <string name="about_title">Über</string>
+    <string name="about_pro_app">{fa-ban} Anzeigen entfernen\n{fa-puzzle-piece} verwenden anpassbare Widget\n{fa-fast-forward} Geschwindigkeit erhöhen</string>
+    <string name="about_app_detail">Anwendung geschrieben von <a href="http://julien-millau.fr">Julien Millau</a></string>
+    <string name="about_improve_translation_text">Verbesserung der Übersetzung</string>
+    <string name="about_feedback_text">Senden Sie Feedback oder Bericht Ausgaben</string>
+    <string name="send_email">Senden email</string>
+
+    <string name="buy_app">Kaufen Sie bitte die APP und installieren Sie sie wieder</string>
+    <string name="log_dialog_ok">Ok</string>
+    <string name="msg_info">Info</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Anzeigen entfernen</string>
+    <string name="pref_auto_update">Automatisches Update</string>
+    <string name="pref_network_title">Netzwerk</string>
+    <string name="pref_auto_update_on">Automatische Aktualisierung aktiviert</string>
+    <string name="pref_auto_update_off">Automatische Update deaktiviert</string>
+    <string name="pref_appearance_title">Aussehen</string>
+    <string name="pref_decimalNumber_title">Anzahl der Dezimalstellen</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Währung-Quelle</string>
+    <string name="pref_currency_source_summary">standaardwaarde Währung</string>
+
+</resources>
