@@ -84,5 +84,8 @@
     <string name="pref_widget_title">Widget</string>
     <string name="pref_currency_source_title">Currency source</string>
     <string name="pref_currency_source_summary">Default widget currency</string>
+    <string name="pref_theme_title">Theme</string>
+    <string name="pref_theme_light">Light</string>
+    <string name="pref_theme_dark">Dark</string>
 
 </resources>
