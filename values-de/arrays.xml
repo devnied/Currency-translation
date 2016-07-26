@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="preference_decimal_entries">
-        <item>1 decimaal</item>
-        <item>2 decimalen</item>
-        <item>3 decimalen</item>
-        <item>4 decimalen</item>
-        <item>5 decimalen</item>
+        <item>1 Dezimalstelle</item>
+        <item>2 Dezimalstellen</item>
+        <item>3 Dezimalstellen</item>
+        <item>4 Dezimalstellen</item>
+        <item>5 Dezimalstellen</item>
     </string-array>
 
     <string-array name="preference_decimal_values">
