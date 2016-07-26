@@ -64,7 +64,7 @@
     <!-- About -->
     <string name="about_title">A proposito</string>
     <string name="about_pro_app">{fa-ban} Rimuovere la pubblicità\n{fa-puzzle-piece} utilizzo personalizzabile widget\n{fa-fast-forward} Aumentare la velocità</string>
-    <string name="about_app_detail">Application written by <a href="http://julien-millau.fr">Julien Millau</a></string>
+    <string name="about_app_detail"><![CDATA[Applicazione scritto da <a href="http://julien-millau.fr">Julien Millau</a>]]></string>
     <string name="about_improve_translation_text">Migliorare la traduzione</string>
     <string name="about_feedback_text">Inviare un commento o segnalare un problema</string>
     <string name="send_email">Invia una email</string>

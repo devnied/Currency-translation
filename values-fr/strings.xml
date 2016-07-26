@@ -27,7 +27,7 @@
     <string name="activity_choose_currency">Choisir une devise</string>
     <string name="home_favorite_action_delete">Supprimer un favoris</string>
     <string name="empty_favorite_currency">Pas de devises favorites</string>
-    <string name="empty_favorite_action">En ajouter un {fa-angle-right}</string>
+    <string name="empty_favorite_action">En ajouter une {fa-angle-right}</string>
     <plurals name="home_drawer_last_sync_minute">
         <item quantity="one">Il y a %d minute</item>
         <item quantity="other">Il y a %d minutes</item>
@@ -58,13 +58,13 @@
 
 
     <!-- Loading -->
-    <string name="loading_text">Initialization &#8230;</string>
+    <string name="loading_text">Initialisation &#8230;</string>
     <string name="loading_error">Merci de vérifier votre connexion</string>
 
     <!-- About -->
     <string name="about_title">A Propos</string>
     <string name="about_pro_app">{fa-ban} Supprimer la publicité\n{fa-puzzle-piece} Utiliser un widget\n{fa-fast-forward} Améliorer la vitesse</string>
-    <string name="about_app_detail">Application écrite par <a href="http://julien-millau.fr">Julien Millau</a></string>
+    <string name="about_app_detail"><![CDATA[Application écrite par <a href="http://julien-millau.fr">Julien Millau</a>]]></string>
     <string name="about_improve_translation_text">Améliorer la traduction</string>
     <string name="about_feedback_text">Envoyer un commentaires ou signaler un problème</string>
     <string name="send_email">Envoyer par email</string>
