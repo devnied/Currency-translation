@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Conversor de moedas</string>
+    <string name="app_name_pro">Conversor de moedas Pro</string>
+
+    <string name="home_open">Abrir</string>
+    <string name="home_close">Fechar</string>
+
+    <string name="home_snackbar_updating">Atualizando...</string>
+    <string name="home_snackbar_update_done">Atualização concluída</string>
+    <string name="home_snackbar_retrying">Nova tentativa de atualização...</string>
+    <string name="home_snackbar_copied">Valor em moeda corrente copiado</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d moeda removida</item>
+        <item quantity="other">%d moedas removidas</item>
+    </plurals>
+
+    <string name="home_drawer_home">Página Inicial</string>
+    <string name="home_drawer_favorites">Favoritos</string>
+    <string name="home_drawer_settings">Configurações</string>
+    <string name="home_drawer_chart">Gráficos</string>
+    <string name="home_drawer_about">Sobre</string>
+    <string name="home_drawer_last_sync">Última atualização %s</string>
+    <string name="currency_search_title">Pesquisar</string>
+    <string name="currency_search_hint">Moeda, País...</string>
+    <string name="currency_search_not_found">Não foram encontradas moedas</string>
+    <string name="activity_label_add_currency">Adicionar moeda</string>
+    <string name="activity_choose_currency">Escolher moeda</string>
+    <string name="home_favorite_action_delete">Excluir Favorito</string>
+    <string name="empty_favorite_currency">Não há moedas favoritas</string>
+    <string name="empty_favorite_action">Adiciona um {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">%d minuto atrás</item>
+        <item quantity="other">%d minutos atrás</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">%d hora atrás</item>
+        <item quantity="other">%d horas atrás</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">%d segundo atrás</item>
+        <item quantity="other">%d segundos atrás</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d moeda selecionada</item>
+        <item quantity="other">%d moedas selecionadas</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\ndia</string>
+    <string name="chart_time_5day">5\ndias</string>
+    <string name="chart_time_3months">3\nmeses</string>
+    <string name="chart_time_6months">6\nmeses</string>
+    <string name="chart_time_1years">1\nano</string>
+    <string name="chart_time_2years">2\nanos</string>
+    <string name="chart_time_5years">5\nanos</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Inicializando...</string>
+    <string name="loading_error">Verifique sua conexão com a internet</string>
+
+    <!-- About -->
+    <string name="about_title">Sobre</string>
+    <string name="about_pro_app">{fa-ban} Remover anúncios\n{fa-puzzle-piece} Usar widget personalizado\n{fa-fast-forward} Aumentar a velocidade</string>
+    <string name="about_app_detail">App desenvolvido por &lt;a href=http://julien-millau.fr&gt;Julien Millau&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">Aprimorar tradução</string>
+    <string name="about_feedback_text">Enviar feedback ou relatórios de erro</string>
+    <string name="send_email">Enviar e-mail</string>
+
+    <string name="buy_app">Compre o app e reinstale-o</string>
+    <string name="log_dialog_ok">OK</string>
+    <string name="msg_info">Informações</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Remover anúncios</string>
+    <string name="pref_auto_update">Atualização automática</string>
+    <string name="pref_network_title">Rede</string>
+    <string name="pref_auto_update_on">Atualização automática habilitada</string>
+    <string name="pref_auto_update_off">Atualização automática desabilitada</string>
+    <string name="pref_appearance_title">Aparência</string>
+    <string name="pref_decimalNumber_title">Número decimal</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Fonte da moeda</string>
+    <string name="pref_currency_source_summary">Moeda padrão do widget</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_theme_light">Claro</string>
+    <string name="pref_theme_dark">Escuro</string>
+
+</resources>

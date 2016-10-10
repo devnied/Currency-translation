@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">货币换算器</string>
+    <string name="app_name_pro">货币换算器专业版</string>
+
+    <string name="home_open">打开</string>
+    <string name="home_close">关闭</string>
+
+    <string name="home_snackbar_updating">更新中...</string>
+    <string name="home_snackbar_update_done">更新完成</string>
+    <string name="home_snackbar_retrying">重试更新中...</string>
+    <string name="home_snackbar_copied">货币金额已复制</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="other">已移除%d货币</item>
+    </plurals>
+
+    <string name="home_drawer_home">主页</string>
+    <string name="home_drawer_favorites">收藏</string>
+    <string name="home_drawer_settings">设置</string>
+    <string name="home_drawer_chart">图表</string>
+    <string name="home_drawer_about">关于</string>
+    <string name="home_drawer_last_sync">上次更新%s</string>
+    <string name="currency_search_title">搜索</string>
+    <string name="currency_search_hint">货币，国家..</string>
+    <string name="currency_search_not_found">没有找到货币</string>
+    <string name="activity_label_add_currency">添加货币</string>
+    <string name="activity_choose_currency">选择货币</string>
+    <string name="home_favorite_action_delete">删除收藏</string>
+    <string name="empty_favorite_currency">没有收藏的货币</string>
+    <string name="empty_favorite_action">添加一个 {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="other">%d秒前</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="other">已选择%d货币</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\n天</string>
+    <string name="chart_time_5day">5\n天</string>
+    <string name="chart_time_3months">3\n个月</string>
+    <string name="chart_time_6months">6\n个月</string>
+    <string name="chart_time_1years">1\n年</string>
+    <string name="chart_time_2years">2\n年</string>
+    <string name="chart_time_5years">5\n年</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">初始化...</string>
+    <string name="loading_error">请检查您的网络连接</string>
+
+    <!-- About -->
+    <string name="about_title">关于</string>
+    <string name="about_pro_app">{fa-ban} 移除广告\n{fa-puzzle-piece} 使用自定义窗口小部件\n{fa-fast-forward} 提升速度</string>
+    <string name="about_app_detail">应用程序创作者为 &lt;a href=http://julien-millau.fr&gt;朱利安·米劳(Julien Millau)&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">改进翻译</string>
+    <string name="about_feedback_text">发送反馈或报告问题</string>
+    <string name="send_email">发电子邮件</string>
+
+    <string name="buy_app">请购买应用程序，并重新安装</string>
+    <string name="log_dialog_ok">好</string>
+    <string name="msg_info">信息</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">移除广告</string>
+    <string name="pref_auto_update">自动更新</string>
+    <string name="pref_network_title">网络</string>
+    <string name="pref_auto_update_on">已启动自动更新</string>
+    <string name="pref_auto_update_off">已关闭自动更新</string>
+    <string name="pref_appearance_title">外观</string>
+    <string name="pref_decimalNumber_title">十进制位数</string>
+    <string name="pref_widget_title">窗口小部件</string>
+    <string name="pref_currency_source_title">货币来源</string>
+    <string name="pref_currency_source_summary">默认小部件货币</string>
+    <string name="pref_theme_title">主题</string>
+    <string name="pref_theme_light">亮</string>
+    <string name="pref_theme_dark">暗</string>
+
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">通貨換算ツール</string>
+    <string name="app_name_pro">通貨換算ツール プロ</string>
+
+    <string name="home_open">開く</string>
+    <string name="home_close">閉じる</string>
+
+    <string name="home_snackbar_updating">更新しています...</string>
+    <string name="home_snackbar_update_done">更新しました</string>
+    <string name="home_snackbar_retrying">もう一度更新する...</string>
+    <string name="home_snackbar_copied">貨幣流通高がコピーされました</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="other">%d 通貨が削除されました</item>
+    </plurals>
+
+    <string name="home_drawer_home">ホーム</string>
+    <string name="home_drawer_favorites">お気に入り</string>
+    <string name="home_drawer_settings">設定</string>
+    <string name="home_drawer_chart">チャート</string>
+    <string name="home_drawer_about">詳細</string>
+    <string name="home_drawer_last_sync">最終更新%s</string>
+    <string name="currency_search_title">検索</string>
+    <string name="currency_search_hint">通貨、国..</string>
+    <string name="currency_search_not_found">通貨が見つかりません</string>
+    <string name="activity_label_add_currency">通貨を追加する</string>
+    <string name="activity_choose_currency">通貨を選択する</string>
+    <string name="home_favorite_action_delete">お気に入りを削除する</string>
+    <string name="empty_favorite_currency">お気に入りの通貨はありません</string>
+    <string name="empty_favorite_action">一つの{fa-angle-right}を追加します</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="other">%d分前</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="other">%d時間前</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="other">%d秒前</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="other">%d種類の通貨が選択されました</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\n日</string>
+    <string name="chart_time_5day">5\n日</string>
+    <string name="chart_time_3months">3\nヶ月</string>
+    <string name="chart_time_6months">6\nヶ月</string>
+    <string name="chart_time_1years">1\n年</string>
+    <string name="chart_time_2years">2\n年</string>
+    <string name="chart_time_5years">5\n年</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">初期化しています...</string>
+    <string name="loading_error">インターネットに接続されているか確認してください</string>
+
+    <!-- About -->
+    <string name="about_title">詳細</string>
+    <string name="about_pro_app">{fa-ban} 広告を非表示にする\n{fa-puzzle-piece} カスタム ウィジェットを使用する\n{fa-fast-forward} 速度を上げる</string>
+    <string name="about_app_detail">アプリは&lt;a href=http://julien-millau.fr&gt;ジュリアン・ミロウ&lt;/a&gt;により開発されました。</string>
+    <string name="about_improve_translation_text">翻訳を改善する</string>
+    <string name="about_feedback_text">フィードバックや問題に関する報告を送信する</string>
+    <string name="send_email">メールを送信する</string>
+
+    <string name="buy_app">アプリを購入してから、再インストールしてください</string>
+    <string name="log_dialog_ok">OK</string>
+    <string name="msg_info">詳細情報</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">広告を削除する</string>
+    <string name="pref_auto_update">自動アップデート</string>
+    <string name="pref_network_title">ネットワーク</string>
+    <string name="pref_auto_update_on">自動更新が有効に設定されています</string>
+    <string name="pref_auto_update_off">自動更新が無効に設定されています</string>
+    <string name="pref_appearance_title">デザイン</string>
+    <string name="pref_decimalNumber_title">10進数</string>
+    <string name="pref_widget_title">ウィジェット</string>
+    <string name="pref_currency_source_title">通貨ソース</string>
+    <string name="pref_currency_source_summary">デフォルトのウィジェット通貨</string>
+    <string name="pref_theme_title">テーマ</string>
+    <string name="pref_theme_light">ライト</string>
+    <string name="pref_theme_dark">ダーク</string>
+
+</resources>

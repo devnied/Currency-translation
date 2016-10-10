@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="app_name_pro">Currency converter pro</string>
+
+    <string name="home_open">Aç</string>
+    <string name="home_close">Kapat</string>
+
+    <string name="home_snackbar_updating">Güncelleniyor...</string>
+    <string name="home_snackbar_update_done">Güncelleme tamamlandı</string>
+    <string name="home_snackbar_retrying">Güncelleme tekrar deneniyor...</string>
+    <string name="home_snackbar_copied">Para birimi miktarı kopyalandı</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d para birimi kaldırıldı</item>
+        <item quantity="other">%d para birimi kaldırıldı</item>
+    </plurals>
+
+    <string name="home_drawer_home">Anasayfa</string>
+    <string name="home_drawer_favorites">Favoriler</string>
+    <string name="home_drawer_settings">Ayarlar</string>
+    <string name="home_drawer_chart">Grafik</string>
+    <string name="home_drawer_about">Hakkında</string>
+    <string name="home_drawer_last_sync">Son güncelleme: %s</string>
+    <string name="currency_search_title">Arama</string>
+    <string name="currency_search_hint">Para birimi, Ülke ..</string>
+    <string name="currency_search_not_found">Para birimi bulunamadı</string>
+    <string name="activity_label_add_currency">Para birimi ekle</string>
+    <string name="activity_choose_currency">Para birimi seç</string>
+    <string name="home_favorite_action_delete">favori sil</string>
+    <string name="empty_favorite_currency">Favori para birimi yok</string>
+    <string name="empty_favorite_action">Bir tane ekler {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">%d dakika önce</item>
+        <item quantity="other">%d dakika önce</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">%d saat önce</item>
+        <item quantity="other">%d  saat önce</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">%d saniye önce</item>
+        <item quantity="other">%d saniye önce</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d para birimi seçildi</item>
+        <item quantity="other">%d para birimi seçildi</item>
+    </plurals>
+
+    <string name="chart_time_1day">1 \ngün</string>
+    <string name="chart_time_5day">5 \ngün</string>
+    <string name="chart_time_3months">3 \nay</string>
+    <string name="chart_time_6months">6 \nay</string>
+    <string name="chart_time_1years">1 \nyıl</string>
+    <string name="chart_time_2years">2 \nyıl</string>
+    <string name="chart_time_5years">5 \nyıl</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Başlatılıyor...</string>
+    <string name="loading_error">İnternet bağlantınızı kontrol edin</string>
+
+    <!-- About -->
+    <string name="about_title">Hakkında</string>
+    <string name="about_pro_app">{fa-ban} Reklamları kaldır\n{fa-puzzle-piece} özelleştirilebilir widget kullan\n{fa-fast-forward} Hız artır</string>
+    <string name="about_app_detail">Uygulamanın mimarı: &lt;a href=http://julien-millau.fr&gt;Julien Millau&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">Çeviri geliştir</string>
+    <string name="about_feedback_text">Geri bildirim gönder veya sorun rapor e</string>
+    <string name="send_email">E-posta gönder</string>
+
+    <string name="buy_app">Lütfen uygulamayı satın alın ve yeniden yükleyin</string>
+    <string name="log_dialog_ok">Tamam</string>
+    <string name="msg_info">Bilgi</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Reklamları kaldır</string>
+    <string name="pref_auto_update">Otomatik güncelleme</string>
+    <string name="pref_network_title">Ağ</string>
+    <string name="pref_auto_update_on">Otomatik güncelleme etkin</string>
+    <string name="pref_auto_update_off">Otomatik güncelleme devre dışı</string>
+    <string name="pref_appearance_title">Görünüm</string>
+    <string name="pref_decimalNumber_title">Ondalık sayı</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Para birimi kaynağı</string>
+    <string name="pref_currency_source_summary">Varsayılan widget para birimi</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_theme_light">Açık</string>
+    <string name="pref_theme_dark">Koyu</string>
+
+</resources>

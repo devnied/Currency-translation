@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">أسعار صرف العملات مجانا</string>
+    <string name="app_name_pro">أسعار صرف العملات الموالية</string>
+
+    <string name="home_open">فتح</string>
+    <string name="home_close">غلق</string>
+
+    <string name="home_snackbar_updating">تحديث ...</string>
+    <string name="home_snackbar_update_done">تم التحديث</string>
+    <string name="home_snackbar_retrying">إعادة محاولة التحديث...</string>
+    <string name="home_snackbar_copied">تم نسخ قيمة العملة</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="zero">تمت إزالة %d  عملة</item>
+        <item quantity="one">تمت إزالة %d  عملة</item>
+        <item quantity="two">تمت إزالة %d عملتين</item>
+        <item quantity="few">تمت إزالة %d عملات</item>
+        <item quantity="many">تمت إزالة %d  عملات</item>
+        <item quantity="other">تمت إزالة %d  عملات</item>
+    </plurals>
+
+    <string name="home_drawer_home">الصفحة الرئيسية</string>
+    <string name="home_drawer_favorites">المفضلة</string>
+    <string name="home_drawer_settings">إعدادات</string>
+    <string name="home_drawer_chart">رسم بياني</string>
+    <string name="home_drawer_about">حول</string>
+    <string name="home_drawer_last_sync">آخر تحديث %s</string>
+    <string name="currency_search_title">بحث</string>
+    <string name="currency_search_hint">العملة، البلد ..</string>
+    <string name="currency_search_not_found">لم يتم العثور على أي عملة</string>
+    <string name="activity_label_add_currency">إضافة عملة</string>
+    <string name="activity_choose_currency">اختر العملة</string>
+    <string name="home_favorite_action_delete">حذف المفضلة</string>
+    <string name="empty_favorite_currency">لا توجد عملة مفضلة</string>
+    <string name="empty_favorite_action">إضافة واحدة {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ %d دقيقة</item>
+        <item quantity="two">منذ %d دقيقتين</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقائق</item>
+        <item quantity="other">منذ %d دقائق</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="zero">منذ %d ساعة</item>
+        <item quantity="one">منذ %d ساعة</item>
+        <item quantity="two">منذ %d ساعتين</item>
+        <item quantity="few">منذ %d ساعات</item>
+        <item quantity="many">منذ %d ساعات</item>
+        <item quantity="other">منذ %d ساعات</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="zero">منذ %d ثانية</item>
+        <item quantity="one">منذ %d ثانية</item>
+        <item quantity="two">منذ %d ثانيتين</item>
+        <item quantity="few">منذ %d ثوان</item>
+        <item quantity="many">منذ %d ثوان</item>
+        <item quantity="other">منذ %d ثوان</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="zero">تم اختيار %d عملة</item>
+        <item quantity="one">تم اختيار %d عملة</item>
+        <item quantity="two">تم اختيار %d عملتين</item>
+        <item quantity="few">تم اختيار %d عملات</item>
+        <item quantity="many">تم اختيار %d عملات</item>
+        <item quantity="other">تم اختيار %d عملات</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\nيوم</string>
+    <string name="chart_time_5day">5\nأيام</string>
+    <string name="chart_time_3months">3\nأشهر</string>
+    <string name="chart_time_6months">6\nأشهر</string>
+    <string name="chart_time_1years">1\nعام</string>
+    <string name="chart_time_2years">2\nعامان</string>
+    <string name="chart_time_5years">5\nأعوام</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">تهيئة ...</string>
+    <string name="loading_error">الرجاء التحقق من اتصال الإنترنت الخاص بك</string>
+
+    <!-- About -->
+    <string name="about_title">حول</string>
+    <string name="about_pro_app">{fa-ban} إزالة الإعلانات\n{fa-puzzle-piece} استخدام الأداة المخصصة\n{fa-fast-forward} زيادة السرعة</string>
+    <string name="about_app_detail">تم تصميم البرنامج بواسطة &lt;a href=http://julien-millau.fr&gt;Julien Millau&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">تحسين الترجمة</string>
+    <string name="about_feedback_text">أرسل تعليقك أو أبلغ عن المشكلات</string>
+    <string name="send_email">أرسل بريدا إلكترونيا</string>
+
+    <string name="buy_app">يرجى شراء التطبيق وإعادة تثبيته</string>
+    <string name="log_dialog_ok">حسنا</string>
+    <string name="msg_info">معلومات</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">إزالة الإعلانات</string>
+    <string name="pref_auto_update">التحديث التلقائي</string>
+    <string name="pref_network_title">شبكة</string>
+    <string name="pref_auto_update_on">تم تمكين التحديث التلقائي</string>
+    <string name="pref_auto_update_off">تم تعطيل التحديث التلقائي</string>
+    <string name="pref_appearance_title">المظهر</string>
+    <string name="pref_decimalNumber_title">عدد عشري</string>
+    <string name="pref_widget_title">أداة</string>
+    <string name="pref_currency_source_title">مصدر العملة</string>
+    <string name="pref_currency_source_summary">عملة الأداة الافتراضية</string>
+    <string name="pref_theme_title">السمة</string>
+    <string name="pref_theme_light">فاتح</string>
+    <string name="pref_theme_dark">داكن</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="preference_decimal_entries">
+        <item>소수점 자리 1개</item>
+        <item>소수점 자리 2개</item>
+        <item>소수점 자리 3개</item>
+        <item>소수점 자리 4개</item>
+        <item>소수점 자리 5개</item>
+    </string-array>
+
+    <string-array name="preference_decimal_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+    <string-array name="preference_theme_entries">
+        <item>@string/pref_theme_light</item>
+        <item>@string/pref_theme_dark</item>
+    </string-array>
+
+    <string-array name="preference_theme_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

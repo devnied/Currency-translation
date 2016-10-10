@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="app_name_pro">Профессиональный конвертер валют</string>
+
+    <string name="home_open">Окрыть</string>
+    <string name="home_close">Закрыть</string>
+
+    <string name="home_snackbar_updating">Обновление...</string>
+    <string name="home_snackbar_update_done">Обновление завершено</string>
+    <string name="home_snackbar_retrying">Повторная попытка обновления...</string>
+    <string name="home_snackbar_copied">Значение валюты скопировано</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d валюта удалена</item>
+        <item quantity="few">%d валют(ы) удалено</item>
+        <item quantity="many">%d валют(ы) удалено</item>
+        <item quantity="other">%d валют(ы) удалено</item>
+    </plurals>
+
+    <string name="home_drawer_home">Главная</string>
+    <string name="home_drawer_favorites">Избранное</string>
+    <string name="home_drawer_settings">Настройки</string>
+    <string name="home_drawer_chart">Графики</string>
+    <string name="home_drawer_about">О приложении</string>
+    <string name="home_drawer_last_sync">Последнее обновление %s</string>
+    <string name="currency_search_title">Поиск</string>
+    <string name="currency_search_hint">Валюта, страна...</string>
+    <string name="currency_search_not_found">Валюта не найдена</string>
+    <string name="activity_label_add_currency">Добавить валюту</string>
+    <string name="activity_choose_currency">Выбрать валюту</string>
+    <string name="home_favorite_action_delete">Удалить из избранного</string>
+    <string name="empty_favorite_currency">Нет валют в избранном</string>
+    <string name="empty_favorite_action">Добавить одну {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">%d минуту назад</item>
+        <item quantity="few">%d минут(ы) назад</item>
+        <item quantity="many">%d минут(ы) назад</item>
+        <item quantity="other">%d минут(ы) назад</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">%d час назад</item>
+        <item quantity="few">%d часа(ов) назад</item>
+        <item quantity="many">%d часа(ов) назад</item>
+        <item quantity="other">%d часа(ов) назад</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">%d секунду назад</item>
+        <item quantity="few">%d секунд(ы) назад</item>
+        <item quantity="many">%d секунд(ы) назад</item>
+        <item quantity="other">%d секунд(ы) назад</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">Выбрана %d валюта</item>
+        <item quantity="few">Выбрано %d валют(ы)</item>
+        <item quantity="many">Выбрано %d валют(ы)</item>
+        <item quantity="other">Выбрано %d валют(ы)</item>
+    </plurals>
+
+    <string name="chart_time_1day">1 \nдень</string>
+    <string name="chart_time_5day">5 \nдней</string>
+    <string name="chart_time_3months">3 \nмесяца</string>
+    <string name="chart_time_6months">6 \nмесяцев</string>
+    <string name="chart_time_1years">1\nгод</string>
+    <string name="chart_time_2years">2 года</string>
+    <string name="chart_time_5years">5\nлет</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Инициализация...</string>
+    <string name="loading_error">Пожалуйста, проверьте свое Интернет-соединение</string>
+
+    <!-- About -->
+    <string name="about_title">О приложении</string>
+    <string name="about_pro_app">{fa-ban} Избавиться от рекламы\n{fa-puzzle-piece} Использовать настраиваемый виджет\n{fa-fast-forward} Увеличить скорость</string>
+    <string name="about_app_detail">Приложение создано &lt;a href=http://julien-millau.fr&gt;Жюленом Мило&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">Улучшить перевод</string>
+    <string name="about_feedback_text">Отправить отзыв или сообщить об ошибке</string>
+    <string name="send_email">Отправить e-mail</string>
+
+    <string name="buy_app">Пожалуйста, купите приложение и переустановите его.</string>
+    <string name="log_dialog_ok">OK</string>
+    <string name="msg_info">Информация</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Избавиться от рекламы</string>
+    <string name="pref_auto_update">Автоматическое обновление</string>
+    <string name="pref_network_title">Сеть</string>
+    <string name="pref_auto_update_on">Автоматическое обновление включено</string>
+    <string name="pref_auto_update_off">Автоматическое обновление отключено</string>
+    <string name="pref_appearance_title">Вид</string>
+    <string name="pref_decimalNumber_title">Десятичные знаки</string>
+    <string name="pref_widget_title">Виджеты</string>
+    <string name="pref_currency_source_title">Источник данных о валюте</string>
+    <string name="pref_currency_source_summary">Валюта виджета по умолчанию</string>
+    <string name="pref_theme_title">Тема</string>
+    <string name="pref_theme_light">Светлая</string>
+    <string name="pref_theme_dark">Темная</string>
+
+</resources>
