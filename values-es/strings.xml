@@ -87,5 +87,8 @@
     <string name="pref_theme_title">Tema</string>
     <string name="pref_theme_light">Claro</string>
     <string name="pref_theme_dark">Oscuro</string>
+    <string name="pref_clear_amount">Borrar la cantidad de diálogo</string>
+    <string name="pref_clear_amount_on">Activado</string>
+    <string name="pref_clear_amount_off">Desactivado</string>
 
 </resources>

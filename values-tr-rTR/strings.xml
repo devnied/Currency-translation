@@ -88,5 +88,8 @@
     <string name="pref_theme_title">Tema</string>
     <string name="pref_theme_light">Açık</string>
     <string name="pref_theme_dark">Koyu</string>
+    <string name="pref_clear_amount">Diyalog miktarını temizleyin</string>
+    <string name="pref_clear_amount_on">aktive</string>
+    <string name="pref_clear_amount_off">Devre dışı bırakmak</string>
 
 </resources>

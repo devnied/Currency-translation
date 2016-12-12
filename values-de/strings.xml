@@ -87,5 +87,8 @@
     <string name="pref_theme_title">Thema</string>
     <string name="pref_theme_light">Hell</string>
     <string name="pref_theme_dark">Dunkel</string>
+    <string name="pref_clear_amount">Den Betrag des Dialogs löschen</string>
+    <string name="pref_clear_amount_on">Aktiviert</string>
+    <string name="pref_clear_amount_off">Deaktiviert</string>
 
 </resources>

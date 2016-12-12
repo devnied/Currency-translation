@@ -83,5 +83,8 @@
     <string name="pref_theme_title">テーマ</string>
     <string name="pref_theme_light">ライト</string>
     <string name="pref_theme_dark">ダーク</string>
+    <string name="pref_clear_amount">対話の量をクリア</string>
+    <string name="pref_clear_amount_on">使用可能</string>
+    <string name="pref_clear_amount_off">使用不可能な</string>
 
 </resources>

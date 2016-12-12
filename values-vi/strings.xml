@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="app_name_pro">Currency converter pro</string>
+
+    <string name="home_open">Mở</string>
+    <string name="home_close">Đóng</string>
+
+    <string name="home_snackbar_updating">Đang cập nhật...</string>
+    <string name="home_snackbar_update_done">Cập nhật hoàn tất</string>
+    <string name="home_snackbar_retrying">Đang thử cập nhật lại...</string>
+    <string name="home_snackbar_copied">Đã sao chép số lượng tiền tệ</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="other">Đã xóa %d loại tiền tệ</item>
+    </plurals>
+
+    <string name="home_drawer_home">Trang chủ</string>
+    <string name="home_drawer_favorites">Yêu thích</string>
+    <string name="home_drawer_settings">Thiết lập</string>
+    <string name="home_drawer_chart">Biểu đồ</string>
+    <string name="home_drawer_about">Giới thiệu</string>
+    <string name="home_drawer_last_sync">Cập nhật lần cuối %s</string>
+    <string name="currency_search_title">Tìm kiếm</string>
+    <string name="currency_search_hint">Tiền tệ, Quốc gia...</string>
+    <string name="currency_search_not_found">Không tìm thấy tiền tệ</string>
+    <string name="activity_label_add_currency">Thêm tiền tệ</string>
+    <string name="activity_choose_currency">Chọn tiền tệ</string>
+    <string name="home_favorite_action_delete">xóa mục yêu thích</string>
+    <string name="empty_favorite_currency">Không có tiền tệ yêu thích</string>
+    <string name="empty_favorite_action">Thêm một {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="other">Cách đây %d phút</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="other">Cách đây %d giờ</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="other">Cách đây %d giây</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="other">Đã chọn %d loại tiền tệ</item>
+    </plurals>
+
+    <string name="chart_time_1day">1\nngày</string>
+    <string name="chart_time_5day">5\nngày</string>
+    <string name="chart_time_3months">3\ntháng</string>
+    <string name="chart_time_6months">6\ntháng</string>
+    <string name="chart_time_1years">1\nnăm</string>
+    <string name="chart_time_2years">2\nnăm</string>
+    <string name="chart_time_5years">5\nnăm</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">Đang khởi chạy...</string>
+    <string name="loading_error">Vui lòng kiểm tra kết nối internet của bạn</string>
+
+    <!-- About -->
+    <string name="about_title">Giới thiệu</string>
+    <string name="about_pro_app">{fa-ban} Loại bỏ quảng cáo\n{fa-puzzle-piece sử dụng widget tùy biến\n{fa-fast-forward} Tăng tốc độ</string>
+    <string name="about_app_detail">Ứng dụng được viết bởi &lt;a href=http://julien-millau.fr&gt;Julien Millau&lt;/a&gt;</string>
+    <string name="about_improve_translation_text">Cải thiện bản dịch</string>
+    <string name="about_feedback_text">Gửi phản hồi hoặc báo cáo sự cố</string>
+    <string name="send_email">Gửi email</string>
+
+    <string name="buy_app">Vui lòng mua ứng dụng và cài đặt lại</string>
+    <string name="log_dialog_ok">Ok</string>
+    <string name="msg_info">Thông tin</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">Loại bỏ quảng cáo</string>
+    <string name="pref_auto_update">Tự động cập nhật</string>
+    <string name="pref_network_title">Mạng</string>
+    <string name="pref_auto_update_on">Đã bật tự động cập nhật</string>
+    <string name="pref_auto_update_off">Đã tắt tự động cập nhật</string>
+    <string name="pref_appearance_title">Giao diện</string>
+    <string name="pref_decimalNumber_title">Số thập phân</string>
+    <string name="pref_widget_title">Widget</string>
+    <string name="pref_currency_source_title">Nguồn tiền tệ</string>
+    <string name="pref_currency_source_summary">Tiền tệ widget mặc định</string>
+    <string name="pref_theme_title">Chủ đề</string>
+    <string name="pref_theme_light">Sáng</string>
+    <string name="pref_theme_dark">Tối</string>
+    <string name="pref_clear_amount">Xóa lượng đối thoại</string>
+    <string name="pref_clear_amount_on">Kích hoạt</string>
+    <string name="pref_clear_amount_off">tàn tật</string>
+
+</resources>

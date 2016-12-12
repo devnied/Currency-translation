@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">मुद्रा परिवर्तक</string>
+    <string name="app_name_pro">Currency converter pro</string>
+
+    <string name="home_open">खोलें</string>
+    <string name="home_close">बंद करें</string>
+
+    <string name="home_snackbar_updating">अद्यतन कर रहा है …</string>
+    <string name="home_snackbar_update_done">अद्यतन पूर्ण</string>
+    <string name="home_snackbar_retrying">अद्यतन का पुन: प्रयास कर रहा है...</string>
+    <string name="home_snackbar_copied">मुद्रा राशि कॉपी की गई</string>
+    <plurals name="home_snackbar_fav_deleted">
+        <item quantity="one">%d मुद्रा निकाली गई</item>
+        <item quantity="other">%d मुद्राएं निकाली गईं</item>
+    </plurals>
+
+    <string name="home_drawer_home">होम</string>
+    <string name="home_drawer_favorites">पसंदीदा</string>
+    <string name="home_drawer_settings">सेटिंग्स</string>
+    <string name="home_drawer_chart">चार्ट</string>
+    <string name="home_drawer_about">इसके बारे में</string>
+    <string name="home_drawer_last_sync">अंतिम अद्यतन %s</string>
+    <string name="currency_search_title">खोजें</string>
+    <string name="currency_search_hint">मुद्रा, देश ..</string>
+    <string name="currency_search_not_found">कोई भी मुद्रा नहीं पाई गई</string>
+    <string name="activity_label_add_currency">मुद्रा जोड़े</string>
+    <string name="activity_choose_currency">मुद्रा चुनें</string>
+    <string name="home_favorite_action_delete">पसंदीदा हटाएं</string>
+    <string name="empty_favorite_currency">कोई भी पसंदीदा मुद्रा नहीं</string>
+    <string name="empty_favorite_action">एक को जोड़ता है {fa-angle-right}</string>
+    <plurals name="home_drawer_last_sync_minute">
+        <item quantity="one">%d मिनट पहले</item>
+        <item quantity="other">%d मिनट पहले</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_hours">
+        <item quantity="one">%d घंटा पहले</item>
+        <item quantity="other">%d घंटे पहले</item>
+    </plurals>
+    <plurals name="home_drawer_last_sync_second">
+        <item quantity="one">%d सेकंड पहले</item>
+        <item quantity="other">%d सेकंड पहले</item>
+    </plurals>
+
+    <plurals name="home_title_action_mode">
+        <item quantity="one">%d मुद्रा चुनी गई</item>
+        <item quantity="other">%d मुद्राएं चुनी गईं</item>
+    </plurals>
+
+    <string name="chart_time_1day">1 दिन</string>
+    <string name="chart_time_5day">5 दिन</string>
+    <string name="chart_time_3months">3 महीने</string>
+    <string name="chart_time_6months">6 महीने</string>
+    <string name="chart_time_1years">1 वर्ष</string>
+    <string name="chart_time_2years">2 वर्ष</string>
+    <string name="chart_time_5years">5 वर्ष</string>
+
+    <!-- Preference -->
+
+
+    <!-- Loading -->
+    <string name="loading_text">आरंभ कर रहा है ...</string>
+    <string name="loading_error">कृपया अपना इंटरनेट कनेक्शन जाँचें</string>
+
+    <!-- About -->
+    <string name="about_title">इसके बारे में</string>
+    <string name="about_pro_app">{fa-ban} विज्ञापन निकालें\n{fa-puzzle-piece} अनुकूलन योग्‍य विज़ेट का उपयोग करें\n{fa-fast-forward} तेज गति</string>
+    <string name="about_app_detail">&lt;a href=http://julien-millau.fr&gt;जुलिएन मिलाओ&lt;/a&gt; द्वारा ऐप्लिकेशन लिखी गई</string>
+    <string name="about_improve_translation_text">अनुवाद में सुधार करें</string>
+    <string name="about_feedback_text">फ़ीडबैक भेजें या समस्या की रिपोर्ट करें</string>
+    <string name="send_email">ईमेल भेजें</string>
+
+    <string name="buy_app">कृपया ऐप्लिकेशन खरीदें और उसे पुन: स्थापित करें</string>
+    <string name="log_dialog_ok">ठीक</string>
+    <string name="msg_info">जानकारी</string>
+
+    <!-- Preferences -->
+    <string name="pref_remove_ads_summary_title">विज्ञापन निकालें</string>
+    <string name="pref_auto_update">स्वचालित अद्यतन</string>
+    <string name="pref_network_title">नेटवर्क</string>
+    <string name="pref_auto_update_on">स्वचालित अद्यतन सक्षम किया गया</string>
+    <string name="pref_auto_update_off">स्वचालित अद्यतन अक्षम किया गया</string>
+    <string name="pref_appearance_title">दिखावट</string>
+    <string name="pref_decimalNumber_title">दशमलव संख्या</string>
+    <string name="pref_widget_title">विज़ेट</string>
+    <string name="pref_currency_source_title">मुद्रा स्रोत</string>
+    <string name="pref_currency_source_summary">डिफ़ॉल्ट विज़ेट मुद्रा</string>
+    <string name="pref_theme_title">विषय</string>
+    <string name="pref_theme_light">प्रकाश</string>
+    <string name="pref_theme_dark">अंधेरा</string>
+    <string name="pref_clear_amount">बातचीत की राशि साफ़</string>
+    <string name="pref_clear_amount_on">सक्रिय किया</string>
+    <string name="pref_clear_amount_off">विकलांग</string>
+</resources>

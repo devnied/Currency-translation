@@ -108,5 +108,8 @@
     <string name="pref_theme_title">السمة</string>
     <string name="pref_theme_light">فاتح</string>
     <string name="pref_theme_dark">داكن</string>
+    <string name="pref_clear_amount">مسح كمية من الحوار</string>
+    <string name="pref_clear_amount_on">تمكين</string>
+    <string name="pref_clear_amount_off">معاق</string>
 
 </resources>

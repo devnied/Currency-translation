@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="preference_decimal_entries">
-        <item>1 décimale</item>
-        <item>2 décimales</item>
-        <item>3 décimales</item>
-        <item>4 décimales</item>
-        <item>5 décimales</item>
+        <item>1 số thập phân</item>
+        <item>2 số thập phân</item>
+        <item>3 số thập phân</item>
+        <item>4 số thập phân</item>
+        <item>5 số thập phân</item>
     </string-array>
 
     <string-array name="preference_decimal_values">
