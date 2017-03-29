@@ -98,8 +98,8 @@
     <string name="pref_theme_title">Тема</string>
     <string name="pref_theme_light">Светлая</string>
     <string name="pref_theme_dark">Темная</string>
-    <string name="pref_clear_amount">Очистите количество диалога</string>
-    <string name="pref_clear_amount_on">Активирован</string>
-    <string name="pref_clear_amount_off">дезактивированный</string>
+    <string name="pref_clear_amount">Очищать сумму при наборе</string>
+    <string name="pref_clear_amount_on">Включено</string>
+    <string name="pref_clear_amount_off">Отключено</string>
 
 </resources>
