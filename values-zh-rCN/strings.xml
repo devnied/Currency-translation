@@ -60,7 +60,7 @@
     <!-- About -->
     <string name="about_title">关于</string>
     <string name="about_pro_app">{fa-ban} 移除广告\n{fa-puzzle-piece} 使用自定义窗口小部件\n{fa-fast-forward} 提升速度</string>
-    <string name="about_app_detail">应用程序创作者为 &lt;a href=http://julien-millau.fr&gt;朱利安·米劳(Julien Millau)&lt;/a&gt;</string>
+    <string name="about_app_detail"><![CDATA[应用程序创作者为 <a href="http://julien-millau.fr">Julien Millau</a>]]></string>
     <string name="about_improve_translation_text">改进翻译</string>
     <string name="about_feedback_text">发送反馈或报告问题</string>
     <string name="send_email">发电子邮件</string>

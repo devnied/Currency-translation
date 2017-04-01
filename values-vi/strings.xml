@@ -59,8 +59,8 @@
 
     <!-- About -->
     <string name="about_title">Giới thiệu</string>
-    <string name="about_pro_app">{fa-ban} Loại bỏ quảng cáo\n{fa-puzzle-piece sử dụng widget tùy biến\n{fa-fast-forward} Tăng tốc độ</string>
-    <string name="about_app_detail">Ứng dụng được viết bởi &lt;a href=http://julien-millau.fr&gt;Julien Millau&lt;/a&gt;</string>
+    <string name="about_pro_app">{fa-ban} Loại bỏ quảng cáo\n{fa-puzzle-piece} sử dụng widget tùy biến\n{fa-fast-forward} Tăng tốc độ</string>
+    <string name="about_app_detail"><![CDATA[Ứng dụng được viết bởi <a href="http://julien-millau.fr">Julien Millau</a>]]></string>
     <string name="about_improve_translation_text">Cải thiện bản dịch</string>
     <string name="about_feedback_text">Gửi phản hồi hoặc báo cáo sự cố</string>
     <string name="send_email">Gửi email</string>

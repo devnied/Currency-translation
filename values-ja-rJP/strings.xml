@@ -60,7 +60,7 @@
     <!-- About -->
     <string name="about_title">詳細</string>
     <string name="about_pro_app">{fa-ban} 広告を非表示にする\n{fa-puzzle-piece} カスタム ウィジェットを使用する\n{fa-fast-forward} 速度を上げる</string>
-    <string name="about_app_detail">アプリは&lt;a href=http://julien-millau.fr&gt;ジュリアン・ミロウ&lt;/a&gt;により開発されました。</string>
+    <string name="about_app_detail"><![CDATA[アプリは<a href="http://julien-millau.fr">ジュリアン・ミロウ</a>により開発されました。]]></string>
     <string name="about_improve_translation_text">翻訳を改善する</string>
     <string name="about_feedback_text">フィードバックや問題に関する報告を送信する</string>
     <string name="send_email">メールを送信する</string>

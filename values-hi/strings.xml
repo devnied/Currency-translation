@@ -65,7 +65,7 @@
     <!-- About -->
     <string name="about_title">इसके बारे में</string>
     <string name="about_pro_app">{fa-ban} विज्ञापन निकालें\n{fa-puzzle-piece} अनुकूलन योग्‍य विज़ेट का उपयोग करें\n{fa-fast-forward} तेज गति</string>
-    <string name="about_app_detail">&lt;a href=http://julien-millau.fr&gt;जुलिएन मिलाओ&lt;/a&gt; द्वारा ऐप्लिकेशन लिखी गई</string>
+    <string name="about_app_detail"><![CDATA[<a href=http://julien-millau.fr>जुलिएन मिलाओ</a> द्वारा ऐप्लिकेशन लिखी गई]]></string>
     <string name="about_improve_translation_text">अनुवाद में सुधार करें</string>
     <string name="about_feedback_text">फ़ीडबैक भेजें या समस्या की रिपोर्ट करें</string>
     <string name="send_email">ईमेल भेजें</string>

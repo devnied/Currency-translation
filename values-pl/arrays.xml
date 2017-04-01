@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_decimal_entries">
+        <item>1 miejsce po przecinku</item>
+        <item>2 miejsca po przecinku</item>
+        <item>3 miejsca po przecinku</item>
+        <item>4 miejsca po przecinku</item>
+        <item>5 miejsc po przecinku</item>
+    </string-array>
+
+    <string-array name="preference_decimal_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+    <string-array name="preference_theme_entries">
+        <item>@string/pref_theme_light</item>
+        <item>@string/pref_theme_dark</item>
+    </string-array>
+
+    <string-array name="preference_theme_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
